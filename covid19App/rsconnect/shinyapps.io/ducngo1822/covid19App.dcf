@@ -1,0 +1,12 @@
+name: covid19App
+title: covid19App
+username:
+account: ducngo1822
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3725657
+bundleId: 4293224
+url: https://ducngo1822.shinyapps.io/covid19App/
+when: 1614739974.94813
+asMultiple: FALSE
+asStatic: FALSE
